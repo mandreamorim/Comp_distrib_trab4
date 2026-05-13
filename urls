@@ -1,0 +1,12 @@
+TARGET_URLS = [
+    "http://example.com/",
+    "http://www.wikipedia.org/",
+    "http://www.github.com/",
+    "http://www.stackoverflow.com/",
+    "http://www.python.org/",
+    "http://www.ruby-lang.org/",
+    "http://www.mozilla.org/",
+    "http://www.w3.org/",
+    "http://www.ietf.org/",
+    "http://www.debian.org/",
+]
