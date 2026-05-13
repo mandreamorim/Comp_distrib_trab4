@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  api:
+    image: linkextractor-api:ruby_sem_redis
+    build: ./api
+    ports:
+      - "4566:4567"
+    volumes:
+      - ./logs:/app/logs
+
